@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <external-files-path name="image" path="Pictures" />
+    <external-file-path
+        name="images"
+        path="Android/data/fi.iqbal.iqbalcamera/files/Pictures" />
+</paths>
